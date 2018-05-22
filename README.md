@@ -512,3 +512,4 @@ Proceeding of the ACM Symposium on Principles of Database Systems (PODS), Madiso
 Cordella L, Foggia P, Sansone C, Vento M, A (Sub)Graph Isomorphism Algorithm for Matching Large Graphs. 
 IEEE Transactions on Pattern Analysis and Machine Intelligence 2004, 26(10):1367-1372.
 
+[GraphGrepSX](https://github.com/GiugnoLab/GraphGrepSX)
